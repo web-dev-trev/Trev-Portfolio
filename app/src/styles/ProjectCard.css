@@ -1,0 +1,12 @@
+.projectCard {
+    max-width: 800px;
+    min-width: 600px;
+    background-color: white;
+    margin-right: 20px;
+    border-radius: 6px;
+}
+
+.projectTitle {
+    margin: 20px;
+    font-size: 36px;
+}
