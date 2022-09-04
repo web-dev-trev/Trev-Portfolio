@@ -1,4 +1,3 @@
-
 body {
   background-color: #1a1a1a !important;
   color: #ebebeb !important;
@@ -13,19 +12,6 @@ a {
 .pageContainer {
   max-width: 80%;
   margin: auto;
-}
-
-.projectsCarousel {
-  padding-left: 10%;
-  width: 100%;
-  display: flex;
-  overflow-x: scroll;
-}
-
-.projectsControl {
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 .btn {

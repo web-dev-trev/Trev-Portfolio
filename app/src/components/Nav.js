@@ -6,6 +6,7 @@ import '../styles/Nav.css'
 
 const Nav = () => {
   return (
+    <>
     <nav>
         <div className='navLogo'>
             <a href='#'><h1>WebDevTrev</h1></a>
@@ -25,11 +26,13 @@ const Nav = () => {
                     <Dropdown.Item as="button">Twitter</Dropdown.Item>
                 </DropdownButton>
             </Dropdown>
-            <Button variant='transparent' style={{marginRight: "6px", outline: "1px solid white"}}>
+            <Button variant='transparent' style={{marginRight: "6px", outline: "2px solid white"}}>
                 Contact
             </Button>
         </div>
     </nav>
+    <hr/>
+    </>
   )
 }
 

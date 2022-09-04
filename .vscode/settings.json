@@ -1,0 +1,21 @@
+{
+    "spiderman.alpha": 2,
+    "spiderman.step": 5,
+    "superBG.url": "https://i.giphy.com/media/13Z5kstwARnPna/giphy.webp",
+    "superBG.opacity": 100,
+    "background.editorBackgrounds": [
+        "C:/Users/trevi/Pictures/VSC Pics/11657.gif",
+        "C:/Users/trevi/Pictures/VSC Pics/11661.gif",
+        "C:/Users/trevi/Pictures/VSC Pics/102421.gif",
+        "C:/Users/trevi/Pictures/VSC Pics/10426.gif"
+    ],
+    "background.windowBackgrounds": [
+        "C:/Users/trevi/Pictures/VSC Pics/"
+    ],
+    "background.sidebarBackgrounds": [
+        "C:/Users/trevi/Pictures/VSC Pics/"
+    ],
+    "background.panelBackgrounds": [
+        "C:/Users/trevi/Pictures/VSC Pics/"
+    ]
+}
