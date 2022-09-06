@@ -1,28 +1,24 @@
 [
     {
         "name": "CHANEL-INV",
-        "id": 0,
         "background": "/img/CHANEL-INV.jpg",
         "textColor": "white",
         "description": "PHP request managment web app developed for CHANEL to optimize internal product requests to fullfilment locations."
     },
     {
         "name": "Washing-Well",
-        "id": 1,
         "background": "/img/washingwell.gif",
         "textColor": "white",
         "description": "An internal system for laundry check-in, delivery scheduling, delivery assignment, and status updates."
     },
     {
         "name": "47 Tech Solutions",
-        "id": 2,
         "background": "/img/47.gif",
         "textColor": "white",
         "description": "NextJS website used to showcase design and development skills for a website agency."
     },
     {
         "name": "Wordpress Web Scraper",
-        "id": 3,
         "background": "/img/WebScrape.gif",
         "textColor": "white",
         "description": "Proprietery python script to pull Real Estate specific data from any wordpress site in the Sideinc network."
